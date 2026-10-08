@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 Email verification needs a Mail.tm API token, grab one free at mail.tm.
 
-<!-- checked: 2026-10-07 -->
+<!-- checked: 2026-10-08 -->
